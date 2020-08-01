@@ -20,7 +20,22 @@ public class BowlingGameTest {
     }
 
     @Test
-    public void LisaTestThree(){
+    public void LisaTestFour(){
+
+    }
+
+    @Test
+    public void LisaTestFive(){
+        // comment
+    }
+
+    @Test
+    public void LisaTestSix(){
+
+    }
+
+    @Test
+    public void LisaTestSeven(){
 
     }
 }
