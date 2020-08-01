@@ -53,4 +53,9 @@ public class BowlingGameTest {
     public void anExtraTest(){
 
     }
+
+    @Test
+    public void testCha5_2(){
+
+    }
 }
