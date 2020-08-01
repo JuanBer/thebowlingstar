@@ -48,4 +48,9 @@ public class BowlingGameTest {
     public void aNewTest(){
 
     }
+
+    @Test
+    public void anExtraTest(){
+
+    }
 }
