@@ -7,4 +7,9 @@ public class BowlingGameTest2 {
     public void lisaTestFour() {
 
     }
+
+    @Test
+    public void chapter5TestMaster() {
+
+    }
 }
